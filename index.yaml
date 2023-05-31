@@ -3,7 +3,17 @@ entries:
   app-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-22T09:50:17.683703+02:00"
+    created: "2023-05-31T10:46:57.041+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 553403b7d988d48389eb367ea9039433356a7a2fc965b6301c18fb98844fd329
+    name: app-deployment
+    type: application
+    urls:
+    - app-deployment-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-31T10:46:57.040638+02:00"
     description: A Helm chart for Kubernetes
     digest: cd9e79be0572b151764188ed68fbfb646e42f7c2fe65eb693e4dafc6a95fff1c
     name: app-deployment
@@ -11,4 +21,4 @@ entries:
     urls:
     - app-deployment-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-22T09:50:17.682967+02:00"
+generated: "2023-05-31T10:46:57.040164+02:00"
