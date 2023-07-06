@@ -3,7 +3,17 @@ entries:
   app-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T23:15:37.2954783+02:00"
+    created: "2023-07-06T12:02:01.804549+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 7fd85f9b74668c97d053105953f1818056571eb0028abc800364871652f6daee
+    name: app-deployment
+    type: application
+    urls:
+    - app-deployment-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-06T12:02:01.804341+02:00"
     description: A Helm chart for Kubernetes
     digest: f516a8153b5bf5559ce256e099582aa0321185e2c6907bbb6c78134bb0f50e2f
     name: app-deployment
@@ -13,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T23:15:37.2950692+02:00"
+    created: "2023-07-06T12:02:01.804147+02:00"
     description: A Helm chart for Kubernetes
     digest: 102eb4ac83a285c24151c6179cef5b9752ba976ad4337d18110c3263a6154db4
     name: app-deployment
@@ -23,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T23:15:37.2930147+02:00"
+    created: "2023-07-06T12:02:01.803955+02:00"
     description: A Helm chart for Kubernetes
     digest: 477be6a086fe5ac8bf17f5128498eacfce3e5c849994d21cddc64b4323349e17
     name: app-deployment
@@ -33,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T23:15:37.2925807+02:00"
+    created: "2023-07-06T12:02:01.803759+02:00"
     description: A Helm chart for Kubernetes
     digest: 553403b7d988d48389eb367ea9039433356a7a2fc965b6301c18fb98844fd329
     name: app-deployment
@@ -43,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T23:15:37.2921598+02:00"
+    created: "2023-07-06T12:02:01.803379+02:00"
     description: A Helm chart for Kubernetes
     digest: cd9e79be0572b151764188ed68fbfb646e42f7c2fe65eb693e4dafc6a95fff1c
     name: app-deployment
@@ -51,4 +61,4 @@ entries:
     urls:
     - app-deployment-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-31T23:15:37.2915601+02:00"
+generated: "2023-07-06T12:02:01.799875+02:00"
